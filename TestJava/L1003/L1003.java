@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class L1003{
     public static void main(String[] args){
         Scanner in=new Scanner(System.in);
         //List<Integer> results=new ArrayList<>();
